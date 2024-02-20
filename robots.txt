@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /
+Disallow: /auth/register
+Disallow: /auth/login
+Disallow: /section-one
+Disallow: /cart
+Disallow: /brand
+Disallow: /favorite
+Disallow: /terms
+Disallow: /order
+Disallow: /review

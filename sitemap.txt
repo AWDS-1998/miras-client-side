@@ -1,0 +1,6 @@
+https://i.brandsye.com
+https://i.brandsye.com/auth/login
+https://i.brandsye.com/auth/register
+https://i.brandsye.com/auth/shop
+https://i.brandsye.com/auth/cart
+https://i.brandsye.com/auth/success
